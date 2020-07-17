@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Just a geek who loves tech...
+
 [![GitHub followers](https://img.shields.io/github/followers/christronyxyocum?logo=github)](https://github.com/users/follow?target=christronyxyocum)
 
 - 🔭 I’m currently working on ... `Too much`
@@ -24,5 +26,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... `Bash, Docker, Organizr`
 - 📫 How to reach me: ... `E: chris@chrisyocum.com D: @tronyx#1337`
 - ⚡ Fun fact: ... `I'm an Eagle Scout`
-
-Just a geek who loves tech...
