@@ -1,8 +1,8 @@
 Just a geek who loves tech...
 
-[![GitHub followers](https://img.shields.io/github/followers/christronyxyocum?logo=github)](https://github.com/users/follow?target=christronyxyocum)
+[![GitHub followers](https://img.shields.io/github/followers/tronyx?logo=github)](https://github.com/users/follow?target=tronyx)
 
-[![Tronyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christronyxyocum&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Tronyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... `Too much`
 - 🌱 I’m currently learning ... `Python`
