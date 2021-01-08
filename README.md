@@ -26,8 +26,4 @@ Just a geek who loves tech...
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
 
-<br>
-<br>
-<br>
-
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
