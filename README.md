@@ -17,6 +17,6 @@ Where to find me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/tronyx86?label=Follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/tronyx?label=Follow&style=social)
 
-     
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" alt="tronyx" />
