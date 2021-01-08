@@ -13,14 +13,13 @@ Some info about me:
 - 👯 I’m looking to collaborate on ... `Bash, Docker`
 - 🤔 I’m looking for help with ... `Sleep`
 - 💬 Ask me about ... `Bash, Docker, Organizr`
-- 📫 How to reach me: ... `E: chris@chrisyocum.com D: @tronyx#1337`
 - ⚡ Fun fact: ... `I'm a Freemason and an Eagle Scout`
 
 Where to find me:
 
-[![Twitter: Tronyx86](https://img.shields.io/twitter/follow/Tronyx86?style=social)](https://twitter.com/Tronyx86)
-[![Linkedin: christopher-yocum](https://img.shields.io/badge/-christopher-yocum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-yocum/)](https://www.linkedin.com/in/christopher-yocum/)
-[![GitHub Tronyx](https://img.shields.io/github/followers/tronyx?label=follow&style=social)](https://github.com/tronyx)
+[![Linkedin: christopher-yocum](https://img.shields.io/badge/-ChrisYocum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-yocum/)](https://www.linkedin.com/in/christopher-yocum/)
+![Twitter Follow](https://img.shields.io/twitter/follow/tronyx86?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/tronyx?label=Follow&style=social)
 
 Some stats:
 
