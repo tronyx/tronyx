@@ -29,6 +29,10 @@ Just a geek who loves tech...
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
 </a>
 
+<br>
+<br>
+<br>
+
 <p href="https://github.com/tronyx/tronyx">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
 </p>
