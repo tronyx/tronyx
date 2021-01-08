@@ -1,9 +1,9 @@
-# Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+# Hello World!  <img src="https://github.com/tronyx/tronyx/blob/master/assets/Hi.gif" width="29px">
 [![GitHub followers](https://img.shields.io/github/followers/tronyx?logo=github)](https://github.com/users/follow?target=tronyx) [![Visits Badge](https://badges.pufler.dev/visits/tronyx/tronyx)](https://badges.pufler.dev/visits/tronyx/tronyx)
 
 Just a geek who loves tech...
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/tronyx/tronyx/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="500" height="320" />
 
 ## 📰 Some info about me
 
