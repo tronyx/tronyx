@@ -33,6 +33,4 @@ Just a geek who loves tech...
 <br>
 <br>
 
-<p href="https://github.com/tronyx/tronyx">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
