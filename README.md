@@ -5,7 +5,7 @@ Just a geek who loves tech...
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/tronyx/tronyx/master/code.gif" width="500" height="320" />
 
-## Some info about me
+## 📰 Some info about me
 
 - 🔭 I’m currently working on:
    - `Too much`
@@ -27,7 +27,7 @@ Just a geek who loves tech...
 [![E-Mail](https://img.shields.io/badge/-chris%40chrisyocum.com-234518f?logo=gmail&color=informational)](mailto:chris@chrisyocum.com)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTronyx86)](https://twitter.com/Tronyx86)
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" />
 
