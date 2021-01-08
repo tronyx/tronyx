@@ -3,16 +3,22 @@
 
 Just a geek who loves tech...
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/tronyx/tronyx/master/code.gif" width="500" height="320" />
 
 ## Some info about me
 
-- 🔭 I’m currently working on ... `Too much`
-- 🌱 I’m currently learning ... `Python`
-- 👯 I’m looking to collaborate on ... `Bash, Docker`
-- 🤔 I’m looking for help with ... `Sleep`
-- 💬 Ask me about ... `Bash, Docker, Organizr`
-- ⚡ Fun fact: ... `I'm a Freemason and an Eagle Scout`
+- 🔭 I’m currently working on:
+   - `Too much`
+- 🌱 I’m currently learning:
+    - `Python, Kubernetes, AWS`
+- 👯 I’m looking to collaborate on:
+    - `Bash, Docker`
+- 🤔 I’m looking for help with:
+    - `Sleep, Kubernetes, AWS, Python`
+- 💬 Ask me about:
+    - `Bash, Docker, Organizr`
+- ⚡ Fun facts about me:
+    - `I'm a Freemason and an Eagle Scout`
 
 ## 📫 Where to find me
 
