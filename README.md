@@ -19,9 +19,9 @@ Just a geek who loves tech...
 
 &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/tronyx/tronyx">
+<p href="https://github.com/tronyx/tronyx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
-</a>
-<a href="https://github.com/tronyx/tronyx">
+</p>
+<p href="https://github.com/tronyx/tronyx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" alt="Tronyx's GitHub Stats" />
-</a>
+</p>
