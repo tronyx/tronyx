@@ -1,5 +1,5 @@
 # Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-[![Visits Badge](https://badges.pufler.dev/visits/tronyx/tronyx)](https://badges.pufler.dev/visits/tronyx/tronyx)
+[![GitHub followers](https://img.shields.io/github/followers/tronyx?logo=github)](https://github.com/users/follow?target=tronyx) [![Visits Badge](https://badges.pufler.dev/visits/tronyx/tronyx)](https://badges.pufler.dev/visits/tronyx/tronyx)
 
 Just a geek who loves tech...
 
@@ -22,10 +22,10 @@ Just a geek who loves tech...
 
 &#x1f4c8; GitHub Stats
 
-<p href="https://github.com/tronyx/tronyx">
+<a href="https://github.com/tronyx/tronyx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" alt="Tronyx's GitHub Stats" />
-</p>
-<p href="https://github.com/tronyx/tronyx">
+</a>
+<a href="https://github.com/tronyx/tronyx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
-</p>
+</a>
 
