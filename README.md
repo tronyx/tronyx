@@ -17,7 +17,8 @@ Just a geek who loves tech...
 ## 📫 Where to find me
 
 [![Linkedin: christopher-yocum](https://img.shields.io/badge/-ChrisYocum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-yocum/)](https://www.linkedin.com/in/christopher-yocum/)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTronyx86)
+[![Organizr Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Q4Zepneu)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTronyx86)](https://twitter.com/Tronyx86)
 
 ## &#x1f4c8; GitHub Stats
 
