@@ -20,7 +20,7 @@ Just a geek who loves tech...
 ![Twitter Follow](https://img.shields.io/twitter/follow/tronyx86?label=Follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/tronyx?label=Follow&style=social)
 
-&#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/tronyx/tronyx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" alt="Tronyx's GitHub Stats" />
@@ -29,3 +29,6 @@ Just a geek who loves tech...
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
 </a>
 
+<p href="https://github.com/tronyx/tronyx">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
+</p>
