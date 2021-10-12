@@ -8,7 +8,7 @@ Just a geek who loves tech...
 ## 📰 Some info about me
 
 - 🔭 I’m currently working on:
-   - `Too much`
+   - `Staying sane and stress free`
 - 🌱 I’m currently learning:
     - `Python, Kubernetes, AWS`
 - 👯 I’m looking to collaborate on:
@@ -16,7 +16,7 @@ Just a geek who loves tech...
 - 🤔 I’m looking for help with:
     - `Sleep, Kubernetes, AWS, Python`
 - 💬 Ask me about:
-    - `Bash, Docker, Organizr`
+    - `Bash, Docker, Organizr, my Repos`
 - ⚡ Fun facts about me:
     - `I'm a Freemason and an Eagle Scout`
 
