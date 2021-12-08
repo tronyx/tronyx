@@ -23,7 +23,7 @@ Just a geek who loves tech...
 ## 📫 Where to find me
 
 [![Linkedin: christopher-yocum](https://img.shields.io/badge/-ChrisYocum-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-yocum/)](https://www.linkedin.com/in/christopher-yocum/)
-[![Organizr Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/TrNtY7N)
+![Discord](https://img.shields.io/discord/374648602632388610?label=Organizr%20Discord)
 [![E-Mail](https://img.shields.io/badge/-chris%40chrisyocum.com-234518f?logo=gmail&color=informational)](mailto:chris@chrisyocum.com)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTronyx86)](https://twitter.com/Tronyx86)
 
