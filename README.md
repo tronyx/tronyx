@@ -3,7 +3,7 @@
 
 Just a geek who loves tech...
 
-<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="50" height="50" />
 
 ## 📰 Some info about me
 
