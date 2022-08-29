@@ -1,5 +1,5 @@
 # Hello World!  <img src="https://github.com/tronyx/tronyx/blob/master/assets/Hi.gif" width="30px" height="30px" >
-[![GitHub followers](https://img.shields.io/github/followers/tronyx?logo=github)](https://github.com/users/follow?target=tronyx) [![Visits Badge](https://badges.pufler.dev/visits/tronyx/tronyx)](https://badges.pufler.dev/visits/tronyx/tronyx)
+[![GitHub followers](https://img.shields.io/github/followers/tronyx?logo=github)](https://github.com/users/follow?target=tronyx) [![Visits Badge](https://badges.strrl.dev/visits/tronyx/tronyx)](https://badges.strrl.dev/visits/tronyx/tronyx)
 
 Just a geek who loves tech...
 
