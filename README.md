@@ -29,8 +29,8 @@ Just a geek who loves tech...
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" />
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=tronyx&count_private=true&show_icons=true&theme=nightowl" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
