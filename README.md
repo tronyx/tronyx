@@ -3,11 +3,11 @@
 
 Just a geek who loves tech...
 
-<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="520" height="320" />
+
 
 
 ## 📰 Some info about me
-
+<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="520" height="320" />
 - 🔭 I’m currently working on:
    - `Staying sane and stress free`
 - 🌱 I’m currently learning:
