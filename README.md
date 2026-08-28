@@ -33,4 +33,5 @@ Just a geek who loves tech...
 
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tronyx&hide=javascript,html,css&theme=nightowl" />
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" />
+<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" /> -->
+<p align="center"> <img src="https://gh-trophy.cdnsoft.net/?username=tronyx&theme=onedark" />
