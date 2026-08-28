@@ -35,4 +35,5 @@ Just a geek who loves tech...
 
 <!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tronyx&theme=onedark" /> -->
 <p align="center"> <img src="https://trophy.benkou.dev/?username=tronyx&theme=onedark" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=tronyx)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=tronyx)](https://github.com/ryo-ma/github-profile-trophy)
+
