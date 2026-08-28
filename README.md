@@ -3,6 +3,9 @@
 
 Just a geek who loves tech...
 
+<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="520" height="320" />
+
+
 ## 📰 Some info about me
 
 - 🔭 I’m currently working on:
@@ -18,7 +21,6 @@ Just a geek who loves tech...
 - ⚡ Fun facts about me:
     - `I'm a Freemason and an Eagle Scout`
 
-<img align="right" alt="GIF" src="https://github.com/tronyx/tronyx/blob/master/assets/code.gif" width="520" height="320" />
 
 ## 📫 Where to find me
 
