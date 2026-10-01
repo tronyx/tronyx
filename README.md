@@ -12,11 +12,11 @@ Just a geek who loves tech...
 - 🌱 I’m currently learning:
     - `Python, Kubernetes, AWS`
 - 👯 I’m looking to collaborate on:
-    - `Bash, Docker`
+    - `Bash, Docker, Kubernetes`
 - 🤔 I’m looking for help with:
     - `Sleep, Kubernetes, AWS, Python`
 - 💬 Ask me about:
-    - `Bash, Docker, Organizr, my Repos`
+    - `Bash, Docker, Organizr, any of my Repos`
 - ⚡ Fun facts about me:
     - `I'm a Freemason and an Eagle Scout`
 
